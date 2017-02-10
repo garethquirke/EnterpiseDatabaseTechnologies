@@ -67,3 +67,58 @@ paste(namesList ,"zz",sep="") 	# paste "zz" to the end of each element in x
 nchar(namesList ) 		# no. of characters in each element of x
 grep("ry",x) 			# which elements of x contain letter "a" ?
 strsplit(x,"a") 		# split x into pieces wherever the letter "a" occurs
+
+
+# logical data
+
+z <- c(TRUE, TRUE, FALSE)	# collection of true and false values
+x <- c(-10, -5,-1,0,3,92)	# collection of numbers now preform operations on them
+x < 0 & abs(x) > 5		# elements in the collection of x who are less than 0 ad greater than 5
+TRUE FALSE FALSE FALSE FALSE FALSE
+
+x < 0 | abs(x) > 5		# less than 0 or greater than 5
+TRUE  TRUE  TRUE FALSE FALSE  TRUE
+
+x[x < 0 | abs(x) > 5]		# less than 0 or greater than 5, return the numbers
+-10  -5  -1  92
+ 
+
+
+# Combine vectors to make a data frame
+custno <- c(1:7)
+loyalty_level <- c(100,100,90,90,40,40,50)
+location <- c("madrid","madrid","london","london","dublin","paris","paris")
+mydata <- data.frame(customer_number = custno, loyalty_level = loyalty_level, city = location, stringsAsFactors = FALSE)
+
+# When this is complete we will have a data frame that looks like this
+	Customer_Number	loyalty_level	city	
+1		1		100	madrid
+2		2		100	madrid
+3		3		90	london
+4		4		90	london
+5		5		40	dublin
+6		6		40	paris
+7		7		50	paris
+
+
+
+# Read data from the web and form a table
+theUrl <- "http://www.jaredlander.com/data/Tomato%20First.csv"
+tomatoes <- read.table(file = theUrl, header = TRUE, sep = ",") 
+head(tomatoes)
+# This produces the table
+  Round             Tomato Price      Source Sweet Acid Color
+1     1         Simpson SM  3.99 Whole Foods   2.8  2.8   3.7
+2     1  Tuttorosso (blue)  2.99     Pioneer   3.3  2.8   3.4
+3     1 Tuttorosso (green)  0.99     Pioneer   2.8  2.6   3.3
+4     1     La Fede SM DOP  3.99   Shop Rite   2.6  2.8   3.0
+5     2       Cento SM DOP  5.49  D Agostino   3.3  3.1   2.9
+6     2      Cento Organic  4.99  D Agostino   3.2  2.9   2.9
+
+  Texture Overall Avg.of.Totals Total.of.Avg
+1     3.4     3.4          16.1         16.1
+2     3.0     2.9          15.3         15.3
+3     2.8     2.9          14.3         14.3
+4     2.3     2.8          13.4         13.4
+5     2.8     3.1          14.4         15.2
+6     3.1     2.9          15.5         15.1
