@@ -137,3 +137,17 @@ summary(weathernum$humidity)
 mnormal.humidty <- (weathernum$humidity - min(weathernum$humidity))/(max(weathernum$humidity) - min(weathernum$humidity))
 summary(mnormal.humidty)
 
+
+# We can transform the distribution in different ways in an attempt to reduce skewness and
+achieve a symmetric distribution.
+# Read dataset on cars
+cars2 <- read.csv(file="C:/Users/x00108966/Documents/EnterpiseDatabaseTechnologies/Rdatasets/cars2.txt", stringsAsFactors = TRUE)
+# natural log transformation
+natlog.weightlbs <- log(cars2$weightlbs)
+natlog.weightlbs
+# square root transformation
+sqrt.weightlbs <- sqrt(cars2$weightlbs)
+sqrt.weightlbs
+# Inverse square root transformation
+invsqrt.weightlbs <- 1/sqrt(cars2$weightlbs)
+invsqrt.weightlbs
