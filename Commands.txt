@@ -151,3 +151,63 @@ sqrt.weightlbs
 # Inverse square root transformation
 invsqrt.weightlbs <- 1/sqrt(cars2$weightlbs)
 invsqrt.weightlbs
+
+
+
+# Binning data (converting numerical data to categorical)
+# Unsupervised: preforms this conversion without the target class information
+data <- c(1,11,2,1,1,2,13,11,44,2,12,1)
+n <- length(data)
+bins <- 3
+whichbin <-c(rep(0,n))
+whichbin <-c(rep(0,n))
+
+freq <- n/bins
+# sort the data
+sorted <- sort(data)
+for(i in 1:bins) {
+    for(j in 1:n) {
+        if ((i-1)*freq <j && j<=i*freq)
+           whichbin[j] <- i
+    }
+ }
+
+
+# Creating a histogram and a scatter plot
+# Import the data set
+cars <- read.csv(file = "C:/Users/garet/College/4th year/Semester 8/Enterprise Database Technologies/EnterpiseDatabaseTechnologies/Rdatasets/cars2.txt", stringsAsFactors = TRUE)
+# Set the plot area
+par(mfrow=c(1,1))
+# Create a histogram based on the weight of cars in pounds
+hist(cars$weightlbs,
+      breaks=30,
+      xlim= c(0,5000),
+      col="blue",
+      border="black",
+      ylim=c(0,40),
+      xlab="Weight in lbs",
+      ylab="Counts",
+      main="Histogram of Car Weights")
+ box(which="plot", lty="solid", col="black")
+ 
+
+# Create a histogram of mpg by weight
+plot(cars$weightlbs, cars$mpg,
+ xlim= c(0,5000),
+ ylim=c(0,600),
+ xlab="Weight",
+ ylab="MPG",
+ main="Scatter Plot of MPG by Weight",
+ type ="p",
+ pch=16,
+ col="blue")
+points(cars$weightlbs,
+ cars$mpg,
+ type="p",
+ col="red")
+
+# Outliers are outside of the normal data, away from the IQR
+# Correalted is a mutal relationship: one thing will effect the other
+# In this case MPG and Weight of a car are strongly correlated
+
+
