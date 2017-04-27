@@ -1,0 +1,206 @@
+
+Modelling
+1:1 
+4 choices 
+1. Embed Patient document in Medical History document
+2. Embed Medical History document in Patient  document
+3. Link Patient with Medical History by posting Patient _id
+4. Link Medical History with Patient by posting Medical History _id
+Note could doubly link but with overhead of maintaining the links 
+
+Optimal solution by examining:
+How is the data frequently accessed? What is the aggregate?
+How will the documents grow? Consider the overhead of moving a large document to/from the database. In addition, take into 
+account the document maximum size limit.
+What do you consider atomic? Design your documents around this
+
+1:F
+Same choices hold above except you will have an array of embedded\nested documents on the 1 side or an array of  _ids on the one side
+Same criteria in finding optimal solution also holds. All things being equal, embedding the departments documents in the organisation document may make sense.
+
+M:M
+Through Linking:  Insert a link array  ( an array of _ids) in one direction or both directions!
+Embed\Nest a document  array on one of the sides of the relationship. Same criteria in finding optimal solution also holds but embedding a large array of documents of duplicated data should not be the preferred choice.
+
+
+
+MONGODB Practical
+1.Create an index on the cust_id
+
+db.customers.createIndex( { "cust_id": 1 } )
+
+2. Display name, city of residence, salesamount and object Id
+db.customers.find(
+    { },
+    { "name": 1, "cityResidence": 1, "sales_totalamount":1, "_id": 1 }
+)
+
+3.Display the names of the male customers that have  sales amount  > €350 [hint use the $gt: operator ].
+db.customers.find(
+    {"gender":"male",
+     "sales_totalamount":{$gt:350 }},
+    { "name": 1 ,"_id":0}
+)
+
+4.Display the names of customers, gender and sales amount for customers who are either male or female and have sales less than €2350 
+[hint use the $or: operator  for gender and $lt for sales_totalamount].
+
+db.customers.find(
+    {$or:[{"gender":"female"},{"gender":"f"},{"gender":"male"}],
+    "sales_totalamount":{$lt:2350 }},
+    { "name": 1 ,"sales_totalamount":1, "_id":0}
+)
+
+5.Display  the names of customers and their ages that are aged between 20 and 35 inclusive and are resident in dublin [hint $gte and $lte operator are useful here].
+db.customers.find(
+    {"cityResidence":"dublin",
+     "age":{$gte:20, $lte:35 }
+    },
+    { "name": 1, "cityResidence":1, "_id":0 }
+)
+
+6. Add a new field called domestic_sales to each of the documents with a default value of true
+
+
+db.customers.update(
+    { },
+    { $set: { "domestic_sales":"true"  } },
+    { "multi": true }
+)
+
+
+7. Let us find what month Paddy had bonusTokens between 1 and 15 (exclusive)
+Access fields in the array.....
+
+--Note the queries below display the whole array that contains bonusTokens between 1 and 15 (exclusive)
+db.customers.find(
+    { "name":"paddy", $and: [{"stats.bonusTokens":{$gt:1}},{"stats.bonusTokens":{$lt:15}}]},
+    { "stats.month":1,"stats.bonusTokens":1  }).pretty()
+
+Another way!
+
+db.customers.find(
+    { "name":"paddy", "stats.bonusTokens":{$gt:1},"stats.bonusTokens":{$lt:15}},
+    { "stats.month":1,"stats.bonusTokens":1  }).pretty()
+
+Another way using $elemMatch!
+db.customers.find(
+    { "name":"paddy", "stats":{$elemMatch: {"bonusTokens":{$gt:1}},"stats":{$elemMatch:"bonusTokens":{$lt:15}}}}},
+    { "stats.month":1,"stats.bonusTokens":1  }).pretty()
+
+--This query displays the row in the array that contains bonusTokens between 1 and 15 (exclusive)
+db.customers.find(
+    { "name":"paddy", 
+	   "stats":{$elemMatch: {"bonusTokens":{$gt:1}}},
+	   "stats":{$elemMatch: {"bonusTokens":{$lt:15}}}
+	   },
+    { "stats.month.$":1, }).pretty()
+
+8. Find the customer names where the bonusTokens is less that 30 and 
+  clicks is greater than 20 for March 
+
+db.customers.find(
+    { "stats.month":"Mar", "stats.bonusTokens":{$lt:30},"stats.noClicks":{$gt:20}},
+    { "_id":0, "name":1}).pretty()
+
+Another way!
+db.customers.find(
+    { "stats":{$elemMatch: { "month":"Mar","bonusTokens":{$lt:10},"noClicks":{$gt:20}}}},
+    { "_id":0, "name":1}).pretty()
+
+
+9. How many customers are there?
+db.customers.count( { } )
+
+OR
+
+db.customers.find( { }  ).count()
+OR
+
+db.customers.find( ).count()
+
+10. How many customers are domestic?
+
+
+db.customers.count( { "domestic_sales":"true" }  )
+
+OR
+
+db.customers.find( { "domestic_sales":"true" }  ).count()
+
+11.Create a new customer with a cust_id of C343, domestic_sales=false, name=SportsWorld, contact=pat hayes, cityResidence=cork, sales_totalamount=25000
+
+db.customers.insertOne(
+{"cust_id":"C343", 
+ "name":"sportsworld",
+ "noOrders":3,
+ "contact":"pat hayes",
+ "cityResidence":"cork",
+ "sales_totalamount":25000 
+} 
+)
+
+12. Update the number of orders to 3 and increase the sales amount by 2300 for customer A21. Check that the changes have occurred
+
+db.customers.find({"cust_id":"A21"},{"noOrders":1,"sales_totalamount":1})
+
+db.customers.update(
+   {"cust_id": "A21" },
+   {
+      $set: { "noOrders": 3 },
+      $inc: { "sales_totalamount": 2300 }
+   }
+)
+
+db.customers.find({"cust_id":"A21"},{"noOrders":1,"sales_totalamount":1})
+
+
+13. Delete your customer that has an id of B31
+db.customers.remove( { "cust_id": "B31" } )
+
+db.customers.find({"cust_id":"B31"})
+
+
+14. 
+Find the unique values for cityResidence
+db.customers.distinct( "cityResidence" )
+
+15.
+Search for a customer with a cust_id of B21. Was an Index used?
+db.customers.find( { "cust_id": "B21" } ).explain()
+
+Subset of Output which  shows  index cust_id_1 was used by the winning plan.
+"winningPlan" : {
+        "stage" : "FETCH",
+        "inputStage" : {
+                "stage" : "IXSCAN",
+                "keyPattern" : {
+                        "cust_id" : 1
+                },
+                "indexName" : "cust_id_1",
+                "isMultiKey" : false,
+                "isUnique" : false,
+                "isSparse" : false,
+                "isPartial" : false,
+                "indexVersion" : 1,
+                "direction" : "forward",
+                "indexBounds" : {
+                        "cust_id" : [
+                                "[\"B21\", \"B21\"]"
+                        ]
+                }
+        }}
+
+16.
+Search for a customer called sportsworld. Was an Index used?
+
+db.customers.find( { "name": "sportsworld" } ).explain()
+
+Subset of Output which  shows no index was used as a full collection scan was carried out.
+"winningPlan" : {
+        "stage" : "COLLSCAN",
+        "filter" : {
+                "name" : {
+                        "$eq" : "sportsworld"
+                }
+        }

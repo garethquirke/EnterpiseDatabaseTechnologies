@@ -1,0 +1,131 @@
+CURRENT DATABASE-----------
+> db
+
+SHOW ALL DATABASES---------
+> show dbs
+
+SHOW ALL COLLECTIONS---------------------------------------
+> show collections
+
+REMOVING A COLLECTION FROM A DB----------------------------
+> db.collection.drop()
+
+CREATE NEW DOCUMENT-----------------------------------------
+> person = { "Name" : "Gareth" }
+
+INSERT DOCUMENT INTO A COLLECTION---------------------------
+> db.people.insertOne(person)
+
+FIND ALL WITHIN A COLLECTION---------------------------------
+> db.people.find().pretty()
+
+INSERT MANY INTO A COLLECTION--------------------------------
+> db.students.insertMany([{_id:1, "Name" : "greg"},{_id:1, "Name" : "grego"},{_id:1, "Name" : "gergeo"}])
+
+
+
+INLINE JAVASCRIPT INSERT INTO COLLECTION---------------------
+function addRecords(input)
+{
+    for(var i = 1; i <= input; i++)
+   {
+	db.loopcollection.insertOne({x:i})
+   }
+}
+
+> addRecords(5)
+> db.loopcollection.find().pretty()
+
+
+
+
+CREATING A FUNCTION, ADDING DATA TO ANOTHER DATABASE------------
+function insertData(dbname, collection, number) 
+ { 
+   var col = db.getSiblingDB(dbname).getCollection(collection);
+   for(var i = 0; i < number; i++)
+       { 
+          col.insert({x:i}); 
+       } 
+    print(col.count()); 
+  }
+
+
+CURSORS--------------------------------
+These are used to query a collection in mongodb.
+It takes a group of 20 and then iterates over the remaining
+
+
+WHILE LOOP TO DISPLAY ALL IN COLLECTION
+> var d = db.number.find()
+while(d.hasNext()) printjson( d.next() )
+
+
+PRINT A SPECIFIC ITEM IN COLLECTION
+> printjson(d[5])
+
+QUERY BY FINDING DOCUMENT THAT HAS X VALUE 19
+> db.number.find( { x : 19} )
+
+QUERY -> RETURN A SINGLE DOCUMENT
+> db.number.findOne( {x: 19})
+
+QUERY -> LIMIT RESULTS TO 3 ITEMS
+> db.number.find().limit(3)
+
+
+
+
+Excercises--------------------------------------
+
+a) Create an appropriate collection to hold movies documents.Using insertOne() method insert 
+two movies. Fields to include are imdb (will be the primary key), title, year and type. 
+For one of the documents you are inserting set _id to tt0075148 as the imdb.
+
+SOLUTION
+> db.movies.insertOne({_id : "tt0075148", "Title" : "step brothers", Year : 2009, "Type" : "Comedy"  })
+> db.movies.insertOne({_id : "tt0075149", "Title" : "studying for CA", Year : 2017, "Type" : "Disaster"  })
+
+
+
+b) Now insert 4 movies using insertMany method (bulk insert) with the second document 
+having _id of tt0075148
+
+What do you notice? By default, if there is an error in a bulk insert the insert will
+stop at the error i.e following document are not loaded. This is deemed an “ordered” insert 
+where  {ordered:true} is set for the insertMany method. Add {ordered:false} to insertMany method 
+following the array of movie documents to allow the insert to carry on. Check the collection to 
+see the movie documents in the collection.
+
+SOLUTION
+> db.movies.insertMany([{_id : "tt0075132", "Title" : "wow", Year : 2009, "Type" : "good"},
+                        {_id : "tt0075148", "Title" : "meliek", Year : 2009, "Type" : "joke"},
+                        {_id : "tt0075189", "Title" : "Timmo", Year : 2009, "Type" : "Great"},
+                        {_id : "tt0075131", "Title" : "crippers", Year : 2009, "Type" : "Funny"}])
+
+
+c) Query the collection returning only the title and year of movies
+
+SOLUTION
+>  db.movies.find({}, {"Year" : "", "Type" : ""})
+
+
+d) what does the following command do to the collection?
+
+> db.movies.update({_id : "tt0075189"}, {"Type" : "Juicy"})
+
+Updates that movie to type of Juicy
+
+Note: Upsert = When you execute an update() with upsert: true and the query
+      matches no existing document, MongoDB will refuse to insert a new document
+
+
+
+
+
+
+
+
+
+
+

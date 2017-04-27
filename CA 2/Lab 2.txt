@@ -1,0 +1,151 @@
+CRUD IN MONGODB------------------------------------------
+
+db.collection.insertOne() -> adds a new document to a collection
+
+db.collection.update() and db.collection.save()
+^ These can do the same through an operation called upsert.
+  This happens when the document to modify does not exsist
+
+
+INSERTING RECORDS INTO INVENTORY COLLECTION
+
+> db.inventory.insertOne({"_id" : 11, "Type" : "electronic", "item" : "iphone", "qty" : 13, "price" : 400})
+> db.inventory.insertOne({"_id" : 12, "Type" : "electronic", "item" : "linux laptop", "qty" : 4, "price" : 600})
+> db.inventory.insertOne({"_id" : 13, "Type" : "electronic", "item" : "grep machine", "qty" : 9, "price" : 500})
+> db.inventory.insertOne({"_id" : 14, "Type" : "book", "item" : "wombat", "qty" : 2, "price" : 345})
+> db.inventory.insertOne({"_id" : 15, "Type" : "consumables", "item" : "timbo", "qty" : 2, "price" : 12})
+
+
+ db.order.insertOne({ 
+         "_id" : 9999, 
+         "name" : "greg michel",
+         "orderDate" : new Date("Sep 04, 2013"),
+         ShippingAddress: 
+         {
+          "line1" : "grafton street",
+          "line2" : "Dublin",
+          "country" : "ireland"
+        }, 
+        
+        "lineItems" : 
+        [
+            {
+             "product" : "screws",
+             "qty" : 10,
+             "uom" : "kg",
+             "unitPrice" : 3.00
+            },
+             {
+            "product" : "fuel",
+            "qty" : 30,
+            "uom" : "litres",
+            "unitPrice" : 3.00
+             }
+        ]})
+
+
+ADDING UPDATE, UPSERT IF IT DOES NOT EXSIST-------------------
+> db.inventory.update({"type" : "book", "item" : "journal", "price" : 10},
+{ $set : {"qty" : 10} },
+{ "upsert" : true})
+
+
+FIND FIRST MATCHING BOOK ROW AND UPDATE ITS QUANTITY TO 5000--------------
+> db.inventory.update({"type" : "book"}, {$inc: {"qty" : 5000} })
+
+FIND MULTIPLE BOOKS IN THE TABLE AND UPDATE THEIR QUANTITY----------------
+> db.inventory.update({"Type" : "book"}, {$inc: {"qty" : 5000} } , {"multi" : true} )
+
+
+DOT NOTATION TO UPDATE FIELD IN SUBDOCUMENT
+> db.order.update( { _id: 9999}, { $set: { "ShippingAddress.line1" : "Jimbo" } } )
+
+
+
+EXCERCISES
+
+A) The government has put €20 tax on all electrical items, make the update
+
+> db.inventory.update({"Type" : "electronic"}, {$inc: {"price" : 20} } , {"multi" : true} )
+
+B) A journal now costs 20 and the stock has increased by 100
+
+> db.inventory.update({"item" : "journal"}, {$inc: {"price" : 20, "qty" : 100} } , {"multi" : true} )
+
+C) Update line 1 to another address, add a post code field as well
+
+> db.order.update( { _id: 9999}, { $set: { "ShippingAddress.line1" : "Jimbo", "ShippingAddress.postcode" : 24 } })
+
+
+
+
+
+REPLACE ALL FIELDS------------------------------
+
+INSERT A RECORD
+> db.inventory.insertOne({"_id" : 22, "type" : "book", "author" : "roddy doyle", "price" : 20, "qty" : 5 })
+
+NOW WE WILL PASS IN AN UPDATE DOCUMENT TO REPLACE CERTAIN FIELDS
+> db.inventory.update({"author" : "roddy doyle"}, {"item" : "The Snapper", "price" : 25})
+
+
+TYPES OF QUERIES IN MONGODB----------------------
+
+FIND ALL
+>  db.inventory.find()
+
+
+WHERE CLAUSE
+> db.inventory.find({"Type" : "book" })
+
+
+OR CLAUSE
+> db.inventory.find({"Type" : {$in: ["book", "electronic"]}})
+
+
+AND CLAUSE
+> db.inventory.find({"Type" : "electronic", "qty": {$gt: 5}})
+
+
+OR and AND CLAUSE
+> db.inventory.find({"Type" : "book", $or: [{"qty": {$gt: 10}}, {"price" : {$lt: 450}}]})
+
+
+
+REMOVE QUERIES---------------------------------------------
+
+REMOVE DOCUMENT WHERE _id = 11
+> db.inventory.remove({"_id" : 11})
+
+
+
+
+EXCERCISES---------------------------------------------------(finish)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
