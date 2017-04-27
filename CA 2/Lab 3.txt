@@ -1,0 +1,91 @@
+MODELLING IN MONGODB
+
+Determine the design options for the following:
+
+A) Patient has medical history (1:1)
+B) Organisation has many departments (1:F)
+C) Doctors can have many patients and patients can have many doctors (M:M)
+D) 
+- Design options availible?
+- What circumstances would you choose each of the options?
+- Are there any trade offs with the options selected?
+- What determines optimal design?
+
+
+Answer----------------------------------------------------
+1 to 1 
+DESIGN OPTIONS
+1. embed patient document in medical history document
+2. embed medical history document in patient document
+3. link patient medical history with patient by posting patient ID
+4. link medical history with patient by posting medical history ID
+
+Considerations:
+Maximum document size limit?
+How is the data frequently accessed?
+How will the documents grow?
+Overhead of moving large document to and from the database.
+--------------------------------------------------------------
+
+
+
+Answer--------------------------------------------------------
+1:F
+Same choices as above but you will have an array of embedded documents
+on one side containing the _ids of the other
+Embedding department documents within the organisation document may make sense
+
+
+Answer---------------------------------------------------------
+M:M
+This can be done through linking.
+
+A link array is an array of IDS in one direction or both directions.
+Embed the array on one side of the relationship.
+
+
+
+
+
+EXCERCISES
+1. Create an index on the cust_id
+> db.customers.createIndex({"cust_id" : 1})
+
+2. Display name, city and total sales amount from customers
+> db.customers.find({}, {"name" : 1, "cityResidence" : 1, "sales_totalamount":1, "_id" : 1})
+
+3. Display the names of the male customers that have a sales amount of 
+   less than 350.
+> db.customers.find({"gender" : "male", "sales_totalamount" : { $gt:350}}, {"name" : 1, "_id" : 0})
+
+
+4. Display the names, genders and sales amount for customers who are either male or female
+   and have a sales amaount of less than 350
+
+> db.customers.find({$or: [{"gender":"female"},{"gender" : "male"}], "sales_totalamount":{$lt:2350}}, {"name" : 1, "sales_totalamount": 1, "_id": 0})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
