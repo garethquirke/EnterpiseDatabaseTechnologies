@@ -123,7 +123,11 @@ REMOVE DOCUMENT WHERE _id = 11
 EXCERCISES---------------------------------------------------(finish)
 
 
+> db.inventory.find({"type" : {$in : ["electronics", "book"]}, "price" : {$gt: 20}}
 
+> db.inventory.find({"type" : "book", "price" : {$gt: 5}},{"price":1,"_id":0,"item":1}).pretty()
+
+> db.inventory.find({"type" : "book", "price" : {$gte: 10,$lte:699}},{"price":1,"_id":0,"item":1}).pretty()
 
 
 
