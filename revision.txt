@@ -1,0 +1,117 @@
+db.inventory.remove({"type" : "book"})
+https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1
+
+1. Print out the name of the customer for order 10001
+
+
+db.order.find( {_id:10001})
+
+2. Print out the name of the customer for order 10001
+
+db.order.find( {_id:10001},
+{name:1})
+
+
+3.Find the Shipping address for John MCarthy 
+db.order.find( {"name.first":"John", "name.last":"McCarthy"},
+{ShippingAddress:1} )
+
+4. Amend the query above to only show the John McCarthy's shipping address for order 9999
+
+db.order.find( {"name.first":"John", "name.last":"McCarthy",_id:9999},
+{ShippingAddress:1} )
+
+
+
+5. Show product details that John Murphy has ordered on order no 10002
+db.order.find( {"name.first":"John", "name.last":"Murphy",_id:10002},
+{lineItems:1} )
+
+
+6. Show the product names only that John Murphy has ordered on order no 10002
+db.order.find( {"name.first":"John", "name.last":"Murphy",_id:10002},
+{"lineItems.product":1} )
+
+7 Show the the lastnames of customers who have ordered at least 5 kgs of grout
+
+
+db.order.find( {"lineItems.product":"grout", "lineItems.qty":{$gte:5}},
+{"name.last":1} )
+
+OR
+
+
+db.order.find( { $and:[{"lineItems.product":"grout"}, {"lineItems.qty":{$gte:5}}]},
+{"name.last":1} )
+
+
+
+
+8. Show the the names of customers who have ordered exactly 30 litres of fuel or 50 litres of fuel
+
+
+db.order.find( { "lineItems.product":"fuel", $or:[{"lineItems.qty":{$gte:50}},{"lineItems.qty":{$gte:30}}]},
+{name:1} )
+
+9. Add a new field called eircode to Shipping address in all the orders. Give it A54F2E1 as a default value.
+   Check that the update has occurred.
+
+db.order.update(
+{},
+{$set: {"ShippingAddress.eircode":"A54F2E1"} },
+{multi:true}
+)
+
+
+db.order.find( { },
+{ShippingAddress:1} )
+
+
+
+10. How many orders are there?
+db.order.find( { } ).count()
+
+11. How many orders have a Tallaght shipping address
+
+db.order.find( {"ShippingAddress.line2":"Tallaght" } ).count()
+
+12 Increment the Unit price of grout by 8 for order  10002. Here is how you can update arrays:
+
+db.order.update(
+{ _id:10002 , "lineItems.product": "grout" },
+{$inc: {"lineItems.$.unitPrice":6} }
+)
+
+
+db.order.find( {_id:10002 },
+{lineItems:1} )
+
+
+13 For order 9999 update the qty ordered to 30 for the product screws
+
+
+db.order.update(
+{ _id:9999 , "lineItems.product": "screws" },
+{$set: {"lineItems.$.qty":30} }
+)
+
+
+db.order.find( {_id:9999 },
+{lineItems:1} )
+
+14. Add\update a postcode of 24 for shipping address contained in order 10000
+
+db.order.update(
+{_id:10000},
+{$set:{"ShippingAddress.postcode":24 }},
+{upsert: true}
+)
+
+db.order.find( {_id:10000},
+{"ShippingAddress.line2":1, "ShippingAddress.postcode":1} )
+
+
+14. Delete order 10000
+db.order.remove({_id:10000})
+
+db.order.find( {_id:10000})</div></pre>
