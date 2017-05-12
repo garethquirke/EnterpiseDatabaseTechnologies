@@ -1,0 +1,2072 @@
+CUST_ID,AREA_CODE,MINUTES_CURR_MONTH,MINUTES_PREV_MONTH,MINUTES_3MONTHS_AGO,CUST_MOS,LONGDIST_FLAG,CALLWAITING_FLAG,NUM_LINES,VOICEMAIL_FLAG,MOBILE_PLAN,CONVERGENT_BILLING,GENDER,INCOME,PHONE_PLAN,EDUCATION,TOT_MINUTES_USAGE,CHURNER
+129,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+130,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+131,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,High School,0,no
+132,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,High School,2498,yes
+133,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,High School,264,no
+134,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,,250,no
+135,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+147,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+137,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+138,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,,95,no
+139,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+140,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+141,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+142,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+143,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+144,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+145,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+146,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+153,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+148,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,yes
+149,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+150,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+151,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+152,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+170,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+154,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+155,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+156,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+157,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+158,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+176,15563,2,0,4,,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+160,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+161,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+162,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+163,45987,10,20,50,,1,0,1,0,0,No,M,75000,International,PhD,80,no
+164,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+165,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+166,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+167,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+168,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+169,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+193,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+171,10040,999,1200,1145,,1,1,2,1,1,Yes,M,80000,National,PhD,3344,yes
+172,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+173,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+174,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+175,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+199,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+177,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+178,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+179,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+180,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+181,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+216,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,no
+183,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+184,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+185,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+186,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+187,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+188,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+189,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+190,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+191,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+192,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+222,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+194,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,yes
+195,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+196,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+197,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+198,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+239,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+200,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+201,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+202,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+203,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+204,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+245,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+206,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+207,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,yes
+208,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+209,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+210,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+211,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+212,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+213,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+214,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+215,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+9,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,no
+217,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+218,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+219,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+220,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+221,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+15,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+223,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+224,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+225,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+226,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+227,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+32,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+229,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+230,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,yes
+231,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+232,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+233,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+234,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+235,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+236,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+237,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,,1172,no
+238,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+38,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+240,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+241,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+242,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+243,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+244,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+55,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,no
+246,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+247,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+248,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+249,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+250,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+61,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+252,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+253,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+254,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+255,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+256,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+2,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+3,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+4,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+5,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+6,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+7,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+8,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+78,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+10,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+11,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+12,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+13,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+14,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+84,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+16,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+17,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+18,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+19,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+20,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+101,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+22,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+23,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+246,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+24,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+25,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+26,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+27,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+28,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+29,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+30,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+31,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+107,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+33,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+34,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+35,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+36,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+37,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+124,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+39,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+40,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+41,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+42,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+43,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+262,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,no
+45,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+46,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+47,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+48,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+49,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+50,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+51,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+52,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+53,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+54,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+268,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+56,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,no
+57,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+58,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+59,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+60,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+285,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+62,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+63,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+64,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+65,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+66,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+291,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+68,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+69,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+70,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+71,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+72,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+73,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,no
+74,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+75,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+76,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+77,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+308,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+79,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+80,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+81,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+82,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+83,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+314,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+85,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+86,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+87,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+88,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+89,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+452,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+91,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+92,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+93,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+94,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+95,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+96,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+97,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+98,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+99,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+100,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+469,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,no
+102,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,no
+103,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+104,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,,1031,no
+105,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+106,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+475,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+108,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+109,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+110,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+111,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+112,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+492,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+114,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+115,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+116,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+117,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+498,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+119,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+120,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+121,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+122,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+123,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+515,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+125,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,no
+126,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+127,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+128,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+257,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+258,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+259,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+260,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+261,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+521,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+263,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,no
+264,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+265,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+266,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+267,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+538,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+269,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+270,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+271,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+272,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+273,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+544,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+275,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+276,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,yes
+277,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+278,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+279,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+280,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,yes
+281,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+282,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,,1105,no
+283,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+284,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+561,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+286,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,yes
+287,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+288,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+289,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+290,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+567,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+292,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+293,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+294,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+295,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+296,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+653,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+298,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+299,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+300,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+301,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+302,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+303,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+304,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+305,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+306,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+307,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+659,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+309,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+310,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+311,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+312,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+313,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+676,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,no
+315,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+316,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+317,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+318,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+319,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+682,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+449,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+450,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+451,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+699,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+453,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+454,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+455,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+456,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+457,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+705,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+459,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+460,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+461,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+462,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+463,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+464,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+465,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+466,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,,1150,no
+467,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+468,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+722,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+470,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,yes
+471,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+472,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+473,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+474,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+728,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+476,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+477,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+478,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+479,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+480,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+745,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+482,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+483,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+484,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+485,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+486,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+487,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,no
+488,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+489,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+490,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+491,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+751,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+493,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,yes
+494,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+495,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+496,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+497,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+768,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+499,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+500,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+501,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+502,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+503,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+774,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+505,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+506,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+507,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+508,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+509,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+510,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+511,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+512,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+513,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+514,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+791,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+516,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+517,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+518,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+519,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+520,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+797,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+522,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+523,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+524,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+525,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+526,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+814,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+528,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+529,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+530,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+531,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+820,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+533,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+534,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+535,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+536,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+537,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+331,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+539,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,yes
+540,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+541,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+542,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+543,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+337,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+545,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+546,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+547,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+548,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+549,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+354,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+551,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+552,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+553,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+554,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+555,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+556,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+557,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+558,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+559,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+560,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+360,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+562,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,yes
+563,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+564,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+565,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+566,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+377,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+568,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+569,21750,12000,8000,,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+570,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+571,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+572,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+383,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+574,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+575,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+576,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+641,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+400,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+643,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+644,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,yes
+645,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+646,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+647,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+648,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+649,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+650,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+651,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+652,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+406,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+654,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+655,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+656,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+657,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+658,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+423,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,yes
+660,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+661,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+662,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+663,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+664,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+429,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+666,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+667,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+668,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+669,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+670,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+671,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+672,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+673,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+674,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+675,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+446,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+677,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,yes
+678,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+679,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+680,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+681,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+584,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+683,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+684,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+685,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+686,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+687,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+590,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+689,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+690,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+691,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+692,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+693,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+694,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,no
+695,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+696,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+697,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+698,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+607,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+700,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+701,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+702,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+703,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+704,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+613,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+706,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+707,21750,7543,16754,,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+708,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+709,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+710,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+630,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,yes
+712,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+713,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+714,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+715,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+716,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+717,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+718,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+719,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+720,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+721,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+636,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+723,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,no
+724,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+725,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+726,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+727,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1090,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,yes
+729,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+730,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+731,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+732,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+733,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1096,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+735,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+736,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+737,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+738,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+1113,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+740,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+741,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+742,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+743,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+744,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1119,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+746,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,no
+747,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+748,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+749,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+750,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1136,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+752,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+753,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+754,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+755,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+756,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1142,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+758,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+759,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+760,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+761,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+762,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+763,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+764,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+765,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+766,36785,6000,7899,,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+767,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+837,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,yes
+769,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+770,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+771,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+772,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+773,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+843,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+775,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+776,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+777,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+778,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+779,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+860,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+781,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+782,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+783,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+784,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+785,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+786,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+787,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+788,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+789,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+790,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+866,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+792,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+793,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+794,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+795,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+796,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+883,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,yes
+798,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+799,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+800,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,yes
+801,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+802,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,yes
+889,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+804,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+805,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+806,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+807,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+808,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+809,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+810,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+811,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+812,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+813,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+906,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+815,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+816,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+817,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+818,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+819,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+912,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+821,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+822,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+823,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+824,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+825,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+929,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+827,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+828,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,no
+829,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+830,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+831,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+832,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+321,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+322,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+323,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+324,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+935,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+326,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+327,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+328,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+329,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+330,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+952,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+332,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,no
+333,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+334,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+335,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+336,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+958,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+338,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+339,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+340,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+341,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+342,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+975,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+344,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+345,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+346,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+347,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+348,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+349,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+350,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+351,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+352,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,,Post Primary,14529,yes
+353,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+981,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+355,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+356,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+357,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+358,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+359,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+998,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+361,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+362,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+363,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+364,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+365,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1004,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+367,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+368,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+369,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+370,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+371,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+372,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+373,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+374,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+375,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+376,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1021,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+378,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+379,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+380,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+381,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+382,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1027,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+384,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+385,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+386,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,yes
+387,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+388,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,yes
+1044,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,no
+390,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+391,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+392,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+393,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+394,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+395,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+396,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+397,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+398,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+399,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1050,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+401,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+402,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+403,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+404,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+405,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1067,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+407,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+408,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+409,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+410,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+411,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1073,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+413,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+414,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,,no
+415,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+416,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+417,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+418,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+419,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+420,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,yes
+421,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,yes
+422,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1159,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+424,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,no
+425,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+426,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+427,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+428,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+1165,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+430,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+431,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+432,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+433,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+434,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+1182,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+436,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+437,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,yes
+438,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+439,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+440,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+441,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+442,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+443,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+444,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+445,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1188,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+447,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,no
+448,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+577,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+578,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+579,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+580,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+581,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+582,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+583,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1205,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+585,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+586,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+587,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+588,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+589,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1211,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+591,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+592,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+593,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+594,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+595,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+1228,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+597,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+598,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+599,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+600,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+601,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+602,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+603,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+604,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+605,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+606,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1234,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+608,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+609,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+610,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+611,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+612,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1251,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,yes
+614,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+615,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+616,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+617,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+618,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1257,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+620,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+621,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,no
+622,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+623,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+624,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+625,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+626,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+627,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,yes
+628,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,yes
+629,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1274,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+631,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+632,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+633,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+634,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+635,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+1280,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+637,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+638,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+639,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+640,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,yes
+1089,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1412,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+1091,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,yes
+1092,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1093,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1094,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1095,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1418,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+1097,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1098,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1099,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1100,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1101,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1435,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+1103,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1104,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,yes
+1105,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+1106,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1107,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+1108,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,yes
+1109,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+1110,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,yes
+1111,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1112,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1441,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+1114,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,yes
+1115,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+1116,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+1117,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+1118,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+1458,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,yes
+1120,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1121,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+1122,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1123,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1124,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1464,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+1126,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1127,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+1128,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1129,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1130,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1131,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+1132,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+1133,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1134,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1135,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1481,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1137,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+1138,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1139,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1140,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1141,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1487,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+1143,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1144,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1145,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1146,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1147,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1504,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,yes
+1149,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1150,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1151,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1152,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+833,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+834,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+835,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+836,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1510,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+838,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,no
+839,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+840,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+841,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+842,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+1527,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+844,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+845,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+846,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+847,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+848,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,yes
+1533,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+850,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+851,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+852,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+853,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+854,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+855,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+856,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+857,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,yes
+858,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+859,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1602,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+861,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,no
+862,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+863,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+864,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+865,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1619,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+867,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+868,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+869,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+870,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+871,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1625,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+873,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+874,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+875,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+876,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+877,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+878,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+879,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+880,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+881,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+882,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1642,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+884,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,no
+885,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+886,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+887,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+888,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1648,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+890,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+891,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+892,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+893,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+894,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1665,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,no
+896,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+897,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+898,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+899,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+900,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+901,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,yes
+902,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+903,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+904,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+905,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1671,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+907,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+908,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+909,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+910,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+911,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+1688,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+913,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+914,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,,Post Primary,24895,yes
+915,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+916,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+917,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1694,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+919,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+920,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+921,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+922,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+923,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+924,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+925,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+926,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+927,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+928,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1711,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,yes
+930,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,no
+931,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+932,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+933,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+934,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1717,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+936,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+937,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+938,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+939,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+940,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1734,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+942,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+943,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+944,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+945,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+1740,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+947,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+948,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+949,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+950,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+951,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1757,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+953,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,no
+954,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+955,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+956,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+957,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1763,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+959,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+960,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+961,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+962,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+963,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1780,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,yes
+965,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+966,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+967,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+968,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+969,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+970,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+971,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+972,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+973,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+974,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1786,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+976,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+977,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+978,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+979,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+980,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+1297,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,yes
+982,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+983,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,,yes
+984,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+985,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+986,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1303,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,yes
+988,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+989,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+990,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+991,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+992,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+993,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+994,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+995,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+996,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+997,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1320,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+999,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+1000,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+1001,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1002,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1003,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1326,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1005,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1006,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1007,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+1008,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1009,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+1343,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+1011,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1012,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+1013,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+1014,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1015,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1016,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+1017,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1018,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1019,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1020,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1349,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1022,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+1023,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1024,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1025,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1026,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1366,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1028,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1029,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1030,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1031,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1032,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1372,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1034,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1035,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,yes
+1036,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+1037,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1038,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1039,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+1040,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+1041,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+1042,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+1043,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1389,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1045,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+1046,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+1047,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1048,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1049,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+1395,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1051,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1052,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+1053,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1054,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+1055,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+1550,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+1057,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1058,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+1059,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1060,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+1061,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+1062,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1063,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1064,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,yes
+1065,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1066,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1556,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1068,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+1069,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+1070,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1071,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+1072,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1573,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1074,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1075,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1076,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1077,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+1078,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1579,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1080,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1081,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1082,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1083,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1084,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1085,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1086,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1087,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1088,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+1596,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1154,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1155,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1156,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1157,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1158,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1924,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1160,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,yes
+1161,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1162,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1163,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1164,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1941,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1166,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1167,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1168,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1169,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1170,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1947,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1172,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1173,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1174,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+1175,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1176,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+1177,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1178,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1179,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1180,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+1181,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1964,15563,5435,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,5549,no
+1183,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,yes
+1184,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1185,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1186,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1187,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+1970,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1189,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1190,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,,Post Primary,20598,yes
+1191,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1192,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1193,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1987,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1195,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1196,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1197,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1198,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1199,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1200,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1201,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1202,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1203,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1204,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1993,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1206,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,yes
+1207,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+1208,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1209,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1210,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+2010,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1212,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1213,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1214,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+1215,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1216,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+2016,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1218,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1219,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1220,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+1221,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1222,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1223,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1224,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1225,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1226,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1227,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+2033,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1229,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,yes
+1230,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1231,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1232,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1233,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+2039,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1235,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1236,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1237,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1238,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1239,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+2056,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1241,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1242,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,,no
+1243,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+1244,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1245,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1246,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+1247,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+1248,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,yes
+1249,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,yes
+1250,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+2062,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1252,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+1253,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+1254,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1255,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1256,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+1803,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1258,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1259,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+1260,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1261,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,yes
+1262,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,yes
+1809,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1264,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1265,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,yes
+1266,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1267,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+1268,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+1269,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1270,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1271,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+1272,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1273,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1826,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1275,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+1276,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+1277,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1278,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+1279,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1832,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1409,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1410,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1411,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1849,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1413,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,yes
+1414,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+1415,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1416,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1417,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1855,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1419,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1420,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1421,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+1422,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1423,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+1872,15563,105,7,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,211,no
+1425,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1426,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1427,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+1428,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1429,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1430,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1431,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1432,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1433,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1434,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1878,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1436,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,yes
+1437,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1438,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1439,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1440,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1895,15563,105,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,219,no
+1442,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1443,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1444,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1445,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1446,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1901,15563,2,0,4,4,0,0,1,0,0,Yes,M,53000,International,Bachelors,6,no
+1448,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1449,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,no
+1450,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+1451,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1452,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1453,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+1454,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+1455,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+1456,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+1457,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1918,15563,5,15,99,11,0,0,2,1,0,No,F,51000,International,Bachelors,119,no
+1459,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+1460,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+1461,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1462,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1463,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+136,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Primary,116,yes
+1465,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1466,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+1467,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1468,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,yes
+1469,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,yes
+159,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1471,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1472,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+1473,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1474,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+1475,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+1476,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1477,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1478,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,yes
+1479,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1480,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+182,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1482,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,no
+1483,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+1484,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1485,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+1486,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+205,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1488,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1489,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1490,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1491,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+1492,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+228,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,,116,yes
+1494,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1495,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1496,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1497,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1498,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1499,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1500,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1501,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1502,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+1503,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+251,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1505,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,no
+1506,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1507,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1508,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1509,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+21,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1511,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1512,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1513,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1514,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1515,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+44,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,,116,yes
+1517,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1518,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+1519,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+1520,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1521,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+1522,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,yes
+1523,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+1524,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+1525,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1526,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+67,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1528,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+1529,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+1530,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+1531,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+1532,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+90,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1534,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1535,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+1536,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1601,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+113,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1603,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1604,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+1605,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1606,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1607,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+118,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1609,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1610,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+1611,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1612,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1613,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1614,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+1615,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1616,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1617,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1618,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+274,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1620,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+1621,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+1622,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1623,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1624,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+297,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1626,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1627,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1628,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+1629,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1630,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+320,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1632,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1633,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1634,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+1635,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1636,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1637,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1638,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1639,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1640,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1641,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+458,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1643,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+1644,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1645,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1646,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1647,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+481,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1649,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1650,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1651,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1652,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1653,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+504,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1655,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1656,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,,Post Primary,,no
+1657,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+1658,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1659,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1660,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+1661,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+1662,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,yes
+1663,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,yes
+1664,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+527,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1666,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,no
+1667,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+1668,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1669,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1670,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+532,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1672,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1673,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+1674,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1675,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,yes
+1676,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,yes
+550,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1678,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1679,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+1680,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1681,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+1682,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+1683,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1684,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1685,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,no
+1686,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1687,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+573,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1689,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,no
+1690,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+1691,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1692,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+1693,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+642,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1695,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1696,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1697,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1698,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+1699,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+665,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1701,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1702,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1703,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1704,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1705,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1706,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1707,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1708,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1709,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1710,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+688,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1712,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,no
+1713,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1714,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1715,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1716,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+711,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1718,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1719,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1720,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1721,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1722,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+734,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1724,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1725,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,yes
+1726,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+1727,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1728,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+1729,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,yes
+1730,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+1731,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+1732,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1733,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+739,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1735,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+1736,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+1737,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+1738,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+1739,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+757,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1741,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1742,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+1743,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1744,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1745,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+780,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1747,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,yes
+1748,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,yes
+1749,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1750,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1751,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1752,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,yes
+1753,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+1754,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1755,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1756,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+803,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1758,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+1759,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1760,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1761,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1762,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+826,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1764,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,yes
+1765,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1766,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1767,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1768,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+325,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1770,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1771,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1772,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1773,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+343,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1775,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1776,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1777,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1778,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+1779,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+366,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1781,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,yes
+1782,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1783,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1784,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1785,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+389,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1787,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1788,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1789,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1790,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1791,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+412,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1281,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1282,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1283,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1284,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+1285,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+435,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1287,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1288,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1289,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1290,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1291,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1292,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1293,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1294,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1295,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1296,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+596,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1298,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,yes
+1299,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1300,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1301,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1302,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+619,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1304,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1305,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1306,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1307,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1308,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1102,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1310,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1311,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+1312,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+1313,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1314,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+1315,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,no
+1316,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+1317,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,no
+1318,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1319,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1125,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1321,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,yes
+1322,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+1323,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+1324,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+1325,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+1148,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1327,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1328,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+1329,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1330,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1331,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+849,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1333,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1334,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1335,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1336,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1337,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1338,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1339,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+1340,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1341,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1342,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+872,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1344,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+1345,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1346,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1347,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1348,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+895,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1350,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1351,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1352,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1353,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1354,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+918,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1356,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1357,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1358,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1359,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+941,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1361,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1362,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1363,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1364,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+1365,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+946,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1367,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,yes
+1368,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1369,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1370,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1371,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+964,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1373,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1374,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1375,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1376,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1377,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+987,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1379,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1380,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1381,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+1382,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1383,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+1384,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1385,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1386,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1387,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+1388,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1010,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1390,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,yes
+1391,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1392,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1393,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1394,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+1033,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1396,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1397,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+1398,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1399,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1400,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1056,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1402,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1403,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1404,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1405,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1406,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1407,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1408,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1537,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1538,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1079,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1540,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1541,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1542,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1543,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1544,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1545,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1546,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+1547,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1548,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1549,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1153,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1551,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,yes
+1552,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1553,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1554,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1555,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1171,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1557,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1558,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1559,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1560,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1561,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1194,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1563,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1564,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1565,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1566,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+1217,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1568,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1569,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1570,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1571,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1572,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1240,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1574,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,yes
+1575,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1576,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1577,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1578,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1263,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1580,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1581,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1582,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1583,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1584,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1424,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1586,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1587,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1588,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+1589,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1590,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+1591,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1592,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1593,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1594,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+1595,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1447,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1597,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+1598,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1599,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1600,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1921,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1922,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1923,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1470,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1925,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1926,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1927,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1928,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1929,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1493,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1931,10040,145,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1932,21750,5,150,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,230,no
+1933,36785,100,9,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,169,yes
+1934,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1935,15563,1004,4,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1952,no
+1936,10040,565,200,650,14,1,1,1,1,1,No,M,33000,National,Masters,1415,no
+1937,21750,333,130,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,607,yes
+1938,55166,550,55,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1105,yes
+1939,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1940,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1516,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1942,10040,999,900,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3044,no
+1943,21750,5,55,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,61,yes
+1944,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Masters,1031,no
+1945,36785,55,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1177,no
+1946,45987,600,366,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1364,yes
+1608,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1948,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1949,21750,7543,16754,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,24895,yes
+1950,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1951,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1952,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1631,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1954,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1955,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1956,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1957,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1958,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1959,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1960,21750,4567,3534,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,8245,yes
+1961,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1962,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1963,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1654,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1965,10040,9,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,2354,no
+1966,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1967,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1968,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1969,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1677,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1971,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1972,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1973,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1974,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1975,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1700,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1977,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1978,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1979,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1980,45987,88,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,158,no
+1723,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1982,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1983,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1984,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1985,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1986,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1746,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1988,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,Bachelors,3344,no
+1989,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1990,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1991,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1992,45987,60,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,914,yes
+1769,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1994,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1995,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1996,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1997,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1998,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1774,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+2000,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+2001,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+2002,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+2003,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+2004,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+2005,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+2006,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+2007,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+2008,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+2009,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1792,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2011,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+2012,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+2013,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+2014,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+2015,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+1286,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2017,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+2018,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+2019,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+2020,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+2021,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+1309,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2023,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+2024,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+2025,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+2026,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+2027,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+2028,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+2029,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+2030,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+2031,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,yes
+2032,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1332,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+2034,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,no
+2035,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+2036,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+2037,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+2038,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1355,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2040,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+2041,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+2042,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+2043,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+2044,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,no
+1360,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+2046,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+2047,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+2048,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+2049,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+2050,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+2051,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+2052,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+2053,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+2054,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+2055,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1378,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2057,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,no
+2058,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+2059,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+2060,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+2061,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1401,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+2063,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+2064,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+2065,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+2066,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+2067,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1539,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+2069,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+2070,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,no
+1793,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1794,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1795,36785,33,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,183,yes
+1796,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1797,15563,10000,8000,944,26,1,1,3,1,1,Yes,M,225000,National,PhD,18944,yes
+1798,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1799,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1800,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1801,36785,6000,7899,630,36,0,0,2,1,0,Yes,M,145000,Euro-Zone,Post Primary,14529,yes
+1802,45987,7800,5000,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,12824,yes
+1562,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1804,10040,9999,12456,1145,3,1,1,2,1,1,No,M,80000,Euro-Zone,Bachelors,23600,no
+1805,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1806,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1807,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1808,45987,6000,4563,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,10961,yes
+1567,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1810,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1811,21750,12000,8000,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,20598,yes
+1812,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1813,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,no
+1814,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1585,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1816,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1817,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1818,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1819,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1820,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1821,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1822,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1823,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1824,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1825,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1930,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1827,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,PhD,3344,yes
+1828,21750,5,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,8,yes
+1829,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1830,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1831,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1953,15563,53,9,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,91,yes
+1833,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1834,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1835,55166,1100,1000,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,2156,no
+1836,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1837,45987,14000,15000,66,44,0,0,1,0,0,No,F,91000,International,PhD,29066,yes
+1976,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1839,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1840,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1841,36785,100,9000,60,10,1,0,2,1,1,Yes,M,50000,Euro-Zone,Primary,9160,yes
+1842,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1843,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1844,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1845,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1846,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,yes
+1847,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,yes
+1848,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1981,15563,500,800,944,26,1,1,3,1,1,Yes,M,25000,International,PhD,2244,yes
+1850,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Masters,3344,yes
+1851,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
+1852,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1853,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,yes
+1854,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1999,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1856,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1857,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1858,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,yes
+1859,36785,97,56,97,8,0,0,1,0,1,No,M,125000,National,Post Primary,250,yes
+1860,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,yes
+2022,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1862,10040,1,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1863,21750,5000,7000,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,12075,no
+1864,36785,100,190,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,350,yes
+1865,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1866,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,no
+1867,10040,5678,3457,2156,14,1,1,1,1,1,No,M,33000,National,Masters,11291,no
+1868,21750,333,122,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,599,yes
+1869,55166,550,100,1453,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,2103,no
+1870,36785,398,2452,4789,36,0,0,2,1,0,No,M,145000,National,Post Primary,7639,no
+1871,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+2045,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1873,10040,9456,14325,12456,3,1,1,2,1,1,Yes,F,80000,Euro-Zone,PhD,36237,yes
+1874,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,no
+1875,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1876,36785,555,444,678,27,1,1,2,1,0,No,F,134000,National,PhD,1677,no
+1877,45987,600,5673,3456,13,0,1,1,1,0,Yes,M,34000,International,Masters,9729,yes
+2068,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1879,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1880,21750,678,55,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,1331,yes
+1881,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1882,36785,97,56,5,8,0,0,1,0,1,No,M,125000,National,Post Primary,158,no
+1883,45987,45,223,66,44,0,0,1,0,0,No,F,91000,International,PhD,334,no
+1815,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1885,10040,100,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1886,21750,5,7,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,87,no
+1887,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1888,45987,999,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,1069,no
+1889,15563,1004,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,2748,yes
+1890,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1891,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1892,55166,5,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,PhD,605,yes
+1893,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Post Primary,1172,no
+1894,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1838,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1896,10040,999,1200,1145,3,1,1,2,1,1,Yes,M,80000,National,Bachelors,3344,yes
+1897,21750,500,2,1,23,0,0,1,0,0,Yes,M,80000,International,Post Primary,503,yes
+1898,55166,344,232,455,11,1,1,2,1,1,Yes,M,75000,Promo_plan,Post Primary,1031,no
+1899,36785,555,7654,8732,27,1,1,2,1,0,Yes,F,134000,Euro-Zone,PhD,16941,yes
+1900,45987,600,456,398,13,0,1,1,1,0,Yes,M,88000,International,Masters,1454,yes
+1861,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1902,10040,2,0,0,1,0,0,1,1,0,No,F,29000,National,Post Primary,0,no
+1903,21750,678,1222,598,30,1,1,2,0,1,Yes,M,46000,International,Post Primary,2498,yes
+1904,55166,110,98,56,15,1,0,1,1,0,No,M,98000,Promo_plan,Post Primary,264,no
+1905,36785,97,5587,4693,8,0,0,1,0,1,Yes,M,34005,Euro-Zone,PhD,10377,yes
+1906,45987,45,23,66,44,0,0,1,0,0,No,F,91000,International,PhD,134,no
+1884,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1908,10040,99,2,0,2,0,0,1,0,0,Yes,F,17000,National,Bachelors,0,no
+1909,21750,5,15,75,6,1,0,1,1,0,No,F,39000,International,Post Primary,95,no
+1910,36785,100,90,60,10,1,0,2,1,1,Yes,M,50000,National,Primary,250,yes
+1911,45987,10,20,50,3,1,0,1,0,0,No,M,75000,International,PhD,80,no
+1912,15563,10,800,944,26,1,1,3,1,1,Yes,M,225000,International,PhD,1754,yes
+1913,10040,565,577,650,14,1,1,1,1,1,No,M,33000,National,Masters,1792,no
+1914,21750,333,277,144,9,0,1,1,1,1,Yes,M,44000,International,Masters,754,yes
+1915,55166,550,100,500,17,1,1,1,0,0,No,M,320000,Promo_plan,Post Primary,1150,no
+1916,36785,398,144,630,36,0,0,2,1,0,No,M,145000,National,Masters,1172,no
+1917,45987,78,54,24,6,1,0,1,0,0,No,F,66000,International,Bachelors,156,yes
+1907,15563,53,34,29,50,1,1,1,0,0,No,F,48000,International,Post Primary,116,yes
+1919,10040,999,1200,1145,3,1,1,2,1,1,No,M,80000,National,PhD,3344,yes
+1920,21750,5,2,1,23,0,0,1,0,0,No,M,80000,International,Post Primary,8,yes
